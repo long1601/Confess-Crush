@@ -10,7 +10,7 @@ const CONFIG = {
     desc: 'em không thích đi cùng anh hỏ ',
     btnYes: 'hokk <33',
     btnNo: '1 chút ngại :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao em khó chiều vậy <3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao em khó chiều vậy? <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'vì em thích anh nên em mới ngại <33333333',
     mess: 'anh biết mà 🥰. cin cảm mơn 😘😘',
